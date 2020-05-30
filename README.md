@@ -25,6 +25,8 @@ Model |F1 Score | EM Score | Training (hrs)
 BiDAF| 78.98 | 69.73 | 2.5 
 DistilBERT | **84.86** | 75.94 | 5
 RoBERTa | 84.74 | **76.09** | 2
+Human Performance | 89.452 | 86.831 | 
+SOTA | 93.011 | 90.724 | 
 
 ## Technologies
 * Pytorch
@@ -37,3 +39,4 @@ RoBERTa | 84.74 | **76.09** | 2
 faster, cheaper and lighter (NeurIPS 2019, Sanh et. al). [Paper](https://arxiv.org/pdf/1910.01108.pdf)
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach (Facebook AI). [Paper](https://arxiv.org/pdf/1907.11692.pdf)
 * [Stanford CS 224n](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html)
+
