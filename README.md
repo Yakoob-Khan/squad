@@ -7,10 +7,9 @@
 
 ## Layout of Code Repository
 
-    ├── baseline-model      # BiDAF model provided by Stanford CS 224n
-        ├── ...
-    	├── Baseline.ipynb 
-    ├── bert-models      	# Using Hugging Face transformers library
+    ├── baseline-model          # BiDAF model provided by Stanford CS 224n
+        ├── Baseline.ipynb 
+    ├── bert-models      	    # Using Hugging Face transformers library
         ├── DistilBERT.ipynb 
         ├── RoBERTa.ipynb
     ├── model-architectures     # images of BERT models 
@@ -38,7 +37,3 @@ RoBERTa | 84.74 | **76.09** | 2
 faster, cheaper and lighter (NeurIPS 2019, Sanh et. al). [Paper](https://arxiv.org/pdf/1910.01108.pdf)
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach (Facebook AI). [Paper](https://arxiv.org/pdf/1907.11692.pdf)
 * [Stanford CS 224n](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html)
-
-
-
-
