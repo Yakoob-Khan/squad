@@ -33,17 +33,18 @@ The following bar chart visualizes the above results
   <img src="./screen-captures/graph.png">
 </p>
 
-
-
 ## Technologies
 * Pytorch
 * Hugging Face Transformer's Library
 
 ## References
-* Know What You Don’t Know: Unanswerable Questions for SQuAD (ACL 2018, Rajpurkar, et al). [Paper](https://arxiv.org/pdf/1806.03822.pdf)
+* SQuAD: 100,000+ Questions for Machine Comprehension of Text
+ (EMNLP 2016, Rajpurkar, et al). [Paper](https://arxiv.org/pdf/1606.05250.pdf)
 * Bidirectional Attention Flow for Machine Comprehension (ICLR 2017, Seo, et al). [Paper](https://arxiv.org/pdf/1611.01603.pdf)
 * DistilBERT, a distilled version of BERT: smaller,
 faster, cheaper and lighter (NeurIPS 2019, Sanh et. al). [Paper](https://arxiv.org/pdf/1910.01108.pdf)
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach (Facebook AI). [Paper](https://arxiv.org/pdf/1907.11692.pdf)
 * [Stanford CS 224n](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html)
 
+## Acknowledgements
+> Professor Rolando A. Coto-Solano for teaching me Computational Linguistics in Spring 2020.
