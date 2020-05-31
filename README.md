@@ -22,11 +22,11 @@
 ## Results
 Model |F1 Score | EM Score | Training (hrs)
 --- | --- | --- | ---
-BiDAF| 78.98 | 69.73 | 2.5 
-DistilBERT | **84.86** | 75.94 | 5
-RoBERTa | 84.74 | **76.09** | 2
-Human Performance | 89.452 | 86.831 | 
-SOTA | 93.011 | 90.724 | 
+BiDAF (baseline) | 78.98 | 69.73 | 2.5 
+Distil-BERT | **84.86** | 75.94 | 5
+Distil-RoBERTa | 84.74 | **76.09** | 2
+Human Performance | 89.452 | 86.831 |
+SOTA | 93.011 | 90.724 |
 
 ## Technologies
 * Pytorch
