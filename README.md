@@ -28,6 +28,10 @@ Distil-RoBERTa | 84.74 | **76.09** | 2
 Human Performance | 89.452 | 86.831 |
 SOTA | 93.011 | 90.724 |
 
+The following bar chart visualizes the above results
+![Visualization of result](./screen-captures/graph.png)
+
+
 ## Technologies
 * Pytorch
 * Hugging Face Transformer's Library
