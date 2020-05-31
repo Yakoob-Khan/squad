@@ -29,7 +29,10 @@ Human Performance | 89.452 | 86.831 |
 SOTA | 93.011 | 90.724 |
 
 The following bar chart visualizes the above results
-![Visualization of result](./screen-captures/graph.png)
+<p align="left">
+  <img src="./screen-captures/graph.png">
+</p>
+
 
 
 ## Technologies
