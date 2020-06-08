@@ -13,14 +13,15 @@
         ├── DistilBERT.ipynb 
         ├── RoBERTa.ipynb
     ├── model-architectures     # images of BERT models 
-    ├── screen-captures         # Screenshots from model training         
+    ├── screen-captures         # Screenshots from model training     
+    ├── Final Report.pdf             
     └── README.md
 
 ## Dataset
 > [SQuAD 1.1](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/)
 
 ## Results
-Model |F1 Score | EM Score | Training (hrs)
+Model |F1 Score (%) | EM Score (%) | Training (hrs)
 --- | --- | --- | ---
 BiDAF (baseline) | 78.98 | 69.73 | 2.5 
 Distil-BERT | **84.86** | 75.94 | 5
